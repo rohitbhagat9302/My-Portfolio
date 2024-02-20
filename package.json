@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "homepage": "https://rohitbhagat9302.github.io/My-Portfolio/",
-  "private": false,
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
