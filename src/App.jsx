@@ -13,7 +13,7 @@ function App() {
 
   return (
 
-    <BrowserRouter>
+    <BrowserRouter basename='/My-Portfolio'>
     <Navbar/>
     <Themes />
     <Routes>
