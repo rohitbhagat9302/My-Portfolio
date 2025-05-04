@@ -52,6 +52,10 @@
     border-radius: 50%;
     text-align: center;
     line-height: 44px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
     transition: all 0.3s ease;
 }
 
